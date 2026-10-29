@@ -1,1 +1,135 @@
-# Word-Scramble-Game
+# 🎮 Word Scramble-Game
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Status-In_Development-8B5CF6?style=for-the-badge" alt="Project status">
+</p>
+
+<p align="center">
+  <strong>🔤 Unscramble the letters. Challenge your mind. Find the word!</strong>
+</p>
+
+<p align="center">
+  A fun, interactive word puzzle game built with HTML, CSS, and vanilla JavaScript.
+</p>
+
+---
+
+## ✨ About the Game
+
+Word Scramble is a browser-based word puzzle game that challenges players to rearrange mixed-up letters and discover the correct word.
+
+Whether you're looking for a quick mental challenge or a fun way to sharpen your vocabulary, this game brings a little puzzle-solving excitement to your browser.
+
+## 🚀 Features
+
+- 🔤 **Word puzzles** — unscramble letters to discover hidden words.
+- 🎯 **Interactive gameplay** — enter your answers and test your guesses.
+- 🎨 **Visual experience** — enjoy the game's interface and styling.
+- ⚡ **Lightweight** — built with HTML, CSS, and vanilla JavaScript.
+- 🌐 **Browser-based** — play without installing a desktop application.
+
+*Update this list to reflect the features implemented in your version.*
+
+## 🖥️ Preview
+
+<!-- Add a screenshot of your actual game to assets/screenshot.png -->
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Word Scramble game preview" width="800">
+</p>
+
+## 🛠️ Built With
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Page structure and game elements |
+| CSS3 | Styling, layout, colors, and animations |
+| JavaScript | Game logic and player interactions |
+
+## 🎮 How to Play
+
+1. Open the game in your browser.
+2. Look at the scrambled letters.
+3. Rearrange them mentally to discover the word.
+4. Enter your guess.
+5. Submit your answer and see if you got it right.
+6. Keep playing and challenge yourself!
+
+*Gameplay steps may vary depending on the implemented controls.*
+
+## 💻 Run Locally
+
+**1. Clone the repository**
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+**2. Open the project folder**
+
+```bash
+cd YOUR_PROJECT_FOLDER
+```
+
+**3. Launch the game**
+
+Open `index.html` in your browser.
+
+For a smoother development workflow, you can also use the Live Server extension in Visual Studio Code.
+
+## 🌍 Deployment
+
+This project can be deployed using [Vercel](https://vercel.com/).
+
+1. Push your project to a GitHub repository.
+2. Sign in to Vercel using your GitHub account.
+3. Select **Add New → Project**.
+4. Import your Word Scramble repository.
+5. Deploy the project.
+
+For a standard static HTML/CSS/JavaScript project, you generally don't need a build command. Set the output directory to the folder containing your `index.html` file, usually the project root.
+ 
+Once deployment finishes, Vercel will provide a public URL where people can play your game.
+
+## 📁 Project Structure
+
+```text
+word-scramble/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   └── screenshot.png
+└── README.md
+```
+
+*Adjust the filenames and folders to match your actual project.*
+
+## 🔮 Future Improvements
+
+Possible additions as the project evolves:
+
+- ⏱️ Timed challenges
+- 🏆 Score tracking and high scores
+- 💡 Hints for difficult words
+- 📈 Increasing difficulty levels
+- 📱 Improved mobile experience
+- 🔊 Sound effects and feedback
+- 📚 Different word categories
+
+## 🤝 Contributing
+
+Suggestions, feedback, and improvements are welcome. Feel free to fork the repository and experiment with new features.
+
+## 📜 License
+
+Choose a license appropriate for your project before making the repository open source.
+
+---
+
+<p align="center">
+  <strong>🧠 Think smart. Find the word. Enjoy the challenge!</strong>
+</p>
