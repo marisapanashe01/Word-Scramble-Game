@@ -35,7 +35,7 @@ Whether you're looking for a quick mental challenge or a fun way to sharpen your
 ## 🖥️ Preview
 
 <p align="center">
-  <img src="assets/screenshot.png" alt="Word Scramble game preview" width="800">
+  <img src="assets/images/wordscramble1.png" alt="Word Scramble game preview" width="800">
 </p>
 
 ## 🛠️ Built With
@@ -75,21 +75,6 @@ cd YOUR_PROJECT_FOLDER
 
 Open `index.html` in your browser.
 
-For a smoother development workflow, you can also use the Live Server extension in Visual Studio Code.
-
-## 🌍 Deployment
-
-This project can be deployed using [Vercel](https://vercel.com/).
-
-1. Push your project to a GitHub repository.
-2. Sign in to Vercel using your GitHub account.
-3. Select **Add New → Project**.
-4. Import your Word Scramble repository.
-5. Deploy the project.
-
-For a standard static HTML/CSS/JavaScript project, you generally don't need a build command. Set the output directory to the folder containing your `index.html` file, usually the project root.
- 
-Once deployment finishes, Vercel will provide a public URL where people can play your game.
 
 ## 📁 Project Structure
 
@@ -98,12 +83,10 @@ word-scramble/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   └── screenshot.png
+├── assets/images
+│   └── wordscramble1.png
 └── README.md
 ```
-
-*Adjust the filenames and folders to match your actual project.*
 
 ## 🔮 Future Improvements
 
@@ -121,9 +104,6 @@ Possible additions as the project evolves:
 
 Suggestions, feedback, and improvements are welcome. Feel free to fork the repository and experiment with new features.
 
-## 📜 License
-
-Choose a license appropriate for your project before making the repository open source.
 
 ---
 
