@@ -110,3 +110,5 @@ Suggestions, feedback, and improvements are welcome. Feel free to fork the repos
 <p align="center">
   <strong>🧠 Think smart. Find the word. Enjoy the challenge!</strong>
 </p>
+
+[← Back to My Portfolio](https://github.com/marisapanashe01/Panashe-s-Portfolio) · [GitHub Profile](https://github.com/marisapanashe01)
