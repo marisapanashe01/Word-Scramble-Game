@@ -31,11 +31,8 @@ Whether you're looking for a quick mental challenge or a fun way to sharpen your
 - ⚡ **Lightweight** — built with HTML, CSS, and vanilla JavaScript.
 - 🌐 **Browser-based** — play without installing a desktop application.
 
-*Update this list to reflect the features implemented in your version.*
 
 ## 🖥️ Preview
-
-<!-- Add a screenshot of your actual game to assets/screenshot.png -->
 
 <p align="center">
   <img src="assets/screenshot.png" alt="Word Scramble game preview" width="800">
